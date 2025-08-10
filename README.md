@@ -1,5 +1,5 @@
 
-# **README – macOS PF Firewall Configuration and Testing (with Sample Outputs)**
+# **README – macOS PF Firewall Configuration and Testing (with Outputs)**
 
 ## **Objective**
 
