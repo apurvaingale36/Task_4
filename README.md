@@ -1,3 +1,4 @@
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/47ba326a-e79d-42e0-ac13-608c5a3ff57e" />
 
 # **README – macOS PF Firewall Configuration and Testing (with Outputs)**
 
@@ -131,4 +132,5 @@ In this task:
 * Port **22** was explicitly allowed for SSH.
 * Testing with `nc` confirmed the block worked.
 * Rule removal restored normal connectivity.
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/47ba326a-e79d-42e0-ac13-608c5a3ff57e" />
 
